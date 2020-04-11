@@ -6,6 +6,7 @@ The yacc file -project30703059.y
 The Python file -project30703059.py
 The Jupyter Notebook file -project30703059.ipynb
 The Documentation-COMPILER LAB PROJECT  DOCUMENT - 2017103070 & 2017103059.pdf & COMPILER LAB PROJECT  DOCUMENT - 2017103070 & 2017103059.docx
+Input files(FOR PYTHON IMPLEMENTATION ONLY):input1.txt & input2.txt
 
 AUTHOR: TEJAS RAMESH (2017103070)
 EMAIL:tejasramesh99@gmail.com
