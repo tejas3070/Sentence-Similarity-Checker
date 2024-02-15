@@ -1,4 +1,4 @@
-# CompilerLabProject
+# Sentence Similarity Checker
 This is the repository that holds the contents of the SENTENCE SIMILARITY PROJECT-(Implemented using Lex&Yacc-(Linux Terminal Implementation) as well as Pyhton-(Jupyter Notebook) ) done as part of (CS-7611 COMPILER LAB) a 6th semester B.E COMPPUTER SCIENCE AND ENGINEERING course taken at COLLEGE OF ENGINEERING GUINDY,ANNA UNIVERSITY CHENNAI-600025,TAMIL NADU,INDIA.
 
 The lex file -project30703059.l
