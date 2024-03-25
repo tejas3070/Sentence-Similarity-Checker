@@ -8,5 +8,3 @@ The Jupyter Notebook file -project.ipynb
 The Documentation-Sentence Similarity checker.pdf
 Input files(FOR PYTHON IMPLEMENTATION ONLY):input1.txt & input2.txt
 
-AUTHOR: TEJAS RAMESH
-EMAIL:tejasramesh99@gmail.com
